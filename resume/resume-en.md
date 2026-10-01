@@ -1,55 +1,49 @@
-# Yinkang Hu
+# Yinkang Hu｜胡寅康
 Hangzhou, China · Corporate Industry Research / Strategic Investment / Industrial Investment  
-Contact details: to be added in the application version
+Contact details: to be added in the private application version
 
-> Working draft v0.1, October 1, 2026. English name, exact employment dates, official institution names and contact details require confirmation. This draft makes no claim about English proficiency.
+> v0.2, October 1, 2026. Employment and key project responsibilities confirmed by the candidate. Official English employer and institution names, education details and internship dates remain to be verified.
 
 ## Profile
-
-Investment manager with experience in a listed company's investment department, covering post-investment monitoring, early-stage battery recycling project research and preliminary silicon photonics assessment. Experience organizing industry and project information, identifying verification questions and preparing materials for internal review. Seeking a corporate investment or industry research role in Hangzhou.
+Investment Manager in a listed company's Strategic Investment Department since July 2022, with experience in new energy subsidiary management, capital increase execution, on-site battery recycling due diligence and silicon photonics research. Led and completed a RMB 25 million subsidiary capital increase. Completed a battery recycling project assessment report and a silicon photonics research report, providing investment recommendations to management. Seeking a corporate industry research or investment role in Hangzhou.
 
 ## Professional Experience
+### 浙江东望时代科技股份有限公司 | Investment Manager, Strategic Investment Department
+July 2022–Present | Hangzhou, China
 
-### 浙江东望时代科技股份有限公司 | Investment Manager
-2023–Present | Hangzhou, China  
-Official English employer name and exact start month to be confirmed.
-
-- Contributed to post-investment reports for a new energy portfolio company, organizing questions on order execution, revenue, gross margin, cost structure and expenses.
-- Supported early-stage battery recycling project research through interview summaries, feedstock and technology analysis, competitive assessment and overseas implementation considerations.
-- Reviewed a silicon photonics business plan and comparable companies, identifying questions on technology validation, commercialization and financing information.
-- Contributed to periodic industry research and copper-clad laminate research, organizing industry-chain analysis and supporting sources.
-- Supported preparation of portfolio-company governance materials and internal approval documents.
-- As of October 2026, is undertaking preparation and coordination work for due diligence relating to a portfolio company's proposed capital increase. Approval, funding and final outcomes remain pending.
+- Responsible for ongoing post-investment monitoring and operating management of a new energy subsidiary, monitoring cash flow stability and working on gross margin mix optimization.
+- Led and completed a RMB 25 million subsidiary capital increase.
+- Analyzed a battery recycling project's business model, conducted on-site due diligence and interviews with relevant parties and upstream and downstream participants, proposed investment recommendations and an investment plan, and completed the project assessment report.
+- Conducted in-depth technical comparisons for a silicon photonics project, identified customer qualification as a key commercialization bottleneck in the project research, provided investment recommendations and completed the research report.
+- Contributed to periodic industry and copper-clad laminate research and supported subsidiary governance and internal approval materials.
 
 ## Selected Projects
+### New Energy Subsidiary Monitoring and Capital Increase | Anonymized Public Case
+- Managed ongoing post-investment monitoring and operating matters, tracked cash flow stability and worked on gross margin mix optimization.
+- Organized operating review questions on orders, profitability, costs and expenses.
+- Led and completed a RMB 25 million subsidiary capital increase; completion date and detailed execution responsibilities will be added to the case record.
 
-### New Energy Portfolio Monitoring | Anonymized Public Case
-- Organized verification questions on orders, profitability, budget execution and costs.
-- Structured follow-up items by priority and separated available information from unverified explanations.
-- Deliverable types: report revisions, operating review questions and governance materials. Quantified impact remains to be substantiated.
+### Battery Recycling Due Diligence and Project Assessment
+- Analyzed the business model, including feedstock sourcing, technology validation, competition and overseas implementation considerations.
+- Conducted on-site due diligence and interviews with relevant parties and upstream and downstream participants.
+- Proposed investment recommendations and an investment plan to management and completed the project assessment report.
 
-### Early-Stage Battery Recycling Assessment
-- Organized founder and equipment-related interview materials and examined feedstock sourcing, process claims and commercialization assumptions.
-- Considered commodity-price exposure, incumbent competition and European implementation requirements.
-- Deliverable types: project assessment research, regulatory summaries and due diligence questions. Technical claims were not treated as independently verified results.
-
-### Preliminary Silicon Photonics Assessment
-- Reviewed the business plan, product positioning, financing information and comparable companies.
-- Distinguished chip, device and module value-chain positions when framing commercialization questions.
-- Deliverable types: BP review questions and comparison materials. No completed investment or investment return is claimed.
+### Silicon Photonics Research and Investment Recommendations
+- Compared the company's technology and product positioning with industry peers.
+- Identified customer qualification as a key commercialization bottleneck in the project assessment.
+- Provided investment recommendations to management and completed the research report.
 
 ## Education
-
 - 浙江财经大学 | Master's degree, Industrial Economics | 2020–2023
 - 浙江大学城市学院 | Bachelor's degree, Automation | 2014–2018
 
-Official English institution and degree names require verification against supporting documents.
+Official English institution and degree names require verification.
 
 ## Internships
-
 - Geely Group | Treasury Department Intern | Dates and responsibilities to be added
 - Tianfeng Securities | Bond Financing Department Intern | Dates and responsibilities to be added
 
 ## Areas of Experience
+Industry research · Business model analysis · On-site due diligence · Industry-chain interviews · Investment recommendations · Post-investment management · Cash flow monitoring · Capital increase execution
 
-Industry-chain research · Project assessment · Interview synthesis · Portfolio operating review · Comparable-company analysis · Internal review materials
+This public version does not disclose internal operating data or claim unconfirmed margin improvements, investment returns or final investment decisions.

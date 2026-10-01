@@ -1,0 +1,8 @@
+# Local/private working materials: never commit confidential originals
+private/
+local/
+.env
+.env.*
+*.tmp
+~$*
+.DS_Store
